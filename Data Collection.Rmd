@@ -1,0 +1,15 @@
+---
+title: "Data Collection"
+author: "Zhi Yuh Ou Yang (301322064)"
+date: "11/30/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#get the data from Yahoo Finance.
+```
+
