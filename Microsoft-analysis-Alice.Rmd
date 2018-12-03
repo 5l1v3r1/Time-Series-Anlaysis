@@ -1,6 +1,6 @@
 ---
 title: "Alice analysis"
-author: "Zhi Yuh Ou Yang (301322064)"
+author: "Alice Roberts (301288793)"
 date: "12/2/2018"
 output: html_document
 ---
