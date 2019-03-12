@@ -1,3 +1,3 @@
 # Time-Series-Anlaysis
 
-This is a project Zhi Yuh and Alice Roberts made for STAT 485 at SFU.
+This is a project Alice Roberts and Zhi Yuh Ou Yang made for STAT 485 at SFU.
